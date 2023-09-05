@@ -376,7 +376,7 @@ background-position: top;
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("C:/Users/UDHAYA/Downloads/space.jpg");
+  background: url("assets/img/space.jpg");
   background-position: 0% 25%;
   
   background-size: cover;
